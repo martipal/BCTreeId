@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">TreeIdApp</string>
+
+    <string name="pg1">Leaves are needle-like or scale-like, and evergreen. Seeds are typically in cones.</string>
+    <string name="pg2">Leaves are scale-like and completely conceal twigs.</string>
+    <string name="pg3">Leaf-covered twigs are flattened and cones are oval-shaped.</string>
+    <string name="pg4">Needles grow from twigs in clusters.</string>
+    <string name="pg5">Needles grow in clusters of 5.</string>
+    <string name="pg6">Gently remove a needle from the twig. The base of the needle does not have a stem. Needles are directly attached to twigs. </string>
+    <string name="pg7">Branches and needles are upswept or curved.</string>
+    <string name="pg8">Seed cones do not have major bracts (the scale-like pieces of a cone).</string>
+    <string name="pg9">Needles are in a definite 2-ranked arrangement. Needles are 3-4cm long and cones are light green. </string>
+    <string name="pg10">Gently remove a needle. The stalk falls away from the twig with the needle. Cones have bracts with 3 points on the tip</string>
+    <string name="pg11">Needles have four sides, are stiff and have a sharp point.</string>
+    <string name="pg12">Needles are of equal lengths. Needles alternate along twig and are sharp-pointed. </string>
+    <string name="pg13">Needles are flattened and grow in 2 rows. The top of the needle is green and the lower surface has two white rows. Cones are 2-3cm long.</string>
+    <string name="pg14">Bark is peeling.</string>
+    <string name="pg15">Leaves are evergreen, leathery, and oval-shaped. Bark is red.</string>
+    <string name="pg16">Trees may have thorns. Fruit appear apple-like.</string>
+    <string name="pg17">Many thorns are present. Thorns are smooth. Flowers may smell stinky and are less than 1cm across. Tree is less than 7m tall.</string>
+    <string name="pg18">Leaves are compound (divided into leaflets)</string>
+    <string name="pg19">Leaves are lobed (have sections).</string>
+    <string name="pg20">Leaves are opposite and maple-like. Fruit grow as 2-winged samaras.</string>
+    <string name="pg21">Leaves are opposite and have smooth edges. </string>
+    <string name="pg22">Fruit grows in a cone-like catkin. Leaves have double-toothed edges.</string>
+    <string name="pg23">Flowers grow in catkins. Fruit are dry capsules with hairy, tufted seeds. Bark is deeply furrowed.</string>
+
+    <string name="pg24">Western redcedar (Thuja plicata)</string>
+    <string name ="pg24D">The official tree of British Columbia, the Western redcedar can be found at low to mid elevations along the coast as well as the wet belt of the interior in cool, mild, moist climates. Growth is optimized in moist, wet soils with abundant nutrients. It can typically be found growing alongside Western hemlock, Douglas-fir, and sometimes Ambalis fir and spruces. The Western red cedar has great spiritual significance to Northwest Coast first nations culture where wood has been used for dugout canoes, house planks, bentwood boxes, clothing, and many tools such as arrow shafts, masks, and paddles. Inner bark is used for rope, clothing, and baskets.  </string>
+
+    <string name="pg25">Yellow cedar (Chamaecyparis nootkatensis)</string>
+    <string name ="pg25D">The yellow cedar was first identified by botanists in the Nootka Sound. It grows optimally in deep, slightly acidic, moist soils where it grows typically as single trees, or in small clumps. Yellow cedar can commonly be found in high elevations, growing alongside hemlock and Ambalis fir, or in old-growth stands at low elevations, most notably in mid or northern coastal regions, where it can typically be found alongside Western red cedar and Western hemlock. In First Nations culture, wood was typically used for making paddles, masks, dishes, bows, and clothing. Yellow cedar wood typically has high commercial value due to its straight grain, yellow colour, and resistance to decay.
+</string>
+
+    <string name="pg26">Western white pine (Pinus monticola)</string>
+    <string name ="pg26D">The western white pine can typically be found in drier parts of Vancouver Island, the adjacent mainland coast and in the wetter parts of the southern Interior, typically at low elevations. Western white pine grow well in a variety of environments, ranging from peat bogs to dry, sandy, or rocky soil. Growth is optimized when the soil is rich in nutrients and is well-drained. Western white pine wood is ideal for carving due to its fine grain and uniform texture. It is also commonly used for special construction purposes, pattern making, and furniture.
+ </string>
+
+    <string name="pg27">Shore pine (Pinus contorta)</string>
+    <string name ="pg27D">The shore pine grows in a narrow band along the coast. It commonly grows as a short, scrubby, crooked tree with deeply grooved, reddish-brown bark. While its wood would be used for homes or buildings, First Nations would commonly stripped off long ribbons, or “noodles”, of the sweet succulent inner bark (cambium layer) to eat fresh in the spring. </string>
+
+    <string name="pg28">Subalpine fir (Abies lasiocarpa)</string>
+    <string name ="pg28D">Subalpine fir can be found at high elevations, from 600m to 2250m throughout most of the interior. It grows near sea level on the North coast. Subalpine fir thrive in environments that have cool summers, cold winters, and a deep snowpack. It can commonly be found in the mountains and plateaus of the interior growing alongside spruce trees. Lichens that grow on the lower branches serve as food for Caribou. The Secwepemc people referred to the subalpine fir as the medicine plant, using the pitch and bark for medicinal purposes. </string>
+
+    <string name="pg29">Noble fir (Abies procera)</string>
+    <string name ="pg29D">The noble fir is a high-altitude tree which typically grows in elevations ranging from 300-1500m, only rarely reaching the tree line. Wood is typically used for general construction purposes and for paper manufacturing. Noble firs are commonly used as Christmas Trees. </string>
+
+    <string name="pg30">Grand fir (Abies grandis)</string>
+    <string name ="pg30D">The grand fir typically can be found along the southern coast and around the Kootenay and Columbia rivers in the southern Interior. The grand fir typically grow well in mixed coniferous forests with Douglas-fir, western hemlock, and western white pine. The grand fir has especially thin bark which make it highly susceptible to fire. The Okanagan people build canoes from Grand fir bark and rubbed its pitch on paddles to give them a good finish. The Kwakwaka\'wakw people would also weave branches into headdresses and costumes. </string>
+
+    <string name="pg31">Ambalis fir (Abies amabilis)</string>
+    <string name ="pg31D">The Ambalis fir can typically be found in coastal forests above 300m elevation. In northern regions, it may grow at sea level. Ambalis fir grow optimally in a maritime climate, where it is common in moist forests on deep, well drained soils. It can typically be found growing alongside Mountain hemlock, Yellow cedar, and Western red cedar. It is typically very shade-tolerant, and small trees often grow successfully in areas with a high canopy cover. Boughs from Ambalis fir would typically be used for floor coverings and bedding for First Nations people. Coastal groups would boil Ambalis fir bark with stinging nettle for a tonic and for bathing and treated colds with a tea made from the needles. </string>
+
+    <string name="pg32">Douglas fir (Pseudotsuga menziesii)</string>
+    <string name ="pg32D">There are two varieties of Douglas Fir: the coastal variety and the interior variety. The coastal variety occurs along the southern mainland coast and across Vancouver Island, except for the very northern tip. The Interior variety occurs throughout southern British Columbia and north to Takla Lake. The interior variety grows in a variety of habitats including open forests with pine grass and mosses beneath. The coastal variety grows in much more productive regions. Douglas fir seeds are food for many forest animals, including squirrels, chipmunks, mice, shrews, winter wrens, and crossbills. Bears will often scrape off the bark on young trees to eat the sap layer beneath. First Nations people used Douglas Fir wood and boughs for fuel for pit-cooking, for fishing hooks and handles, as well as for floor coverings of lodges and sweat lodges. Douglas fir wood has high commercial value due to its hard, stiff, and durable wood. </string>
+
+    <string name="pg33">Sitka spruce (Picea sitchensis)</string>
+    <string name ="pg33D">The Sitka spruce can be found along the coast in a narrow band from sea level to about 700m elevation. It is most common along the coastal fog-belt and river and stream flood plains. It can be found growing alongside Western hemlock, Western redcedar, and yellow-cedar. Coastal First Nations people would fashion beautiful water-tight hats and baskets from Sitka roots. Roots would also be used for ropes, fishing line, and twine to sew boxes and baskets. Inner bark and young shoots would sometimes be eaten raw as a source of vitamin C. </string>
+
+    <string name="pg34">Western yew (Taxus brevifolia)</string>
+    <string name ="pg34D">The Western yew occurs scattered throughout the wetter forests of the coast and the Interior wet belt, primarily at low to mid elevations. It grows well in a variety of sites, from dry and rocky to moist depressions and ravines; it generally occurs on sites that have abundant soil nutrients. It can be found growing alongside Douglas fir, Western red cedar, and Western hemlock. Western yew can be an important food source for black-tailed deer, elk, moose and caribou. Fruit is eaten by blackbirds, waxwings, and nuthatches, as well as small rodents. First Nations people would traditionally use Western yew wood, known for its stiffness, to make bows, tools, paddles, and prying stocks. Interior peoples used the branches to make snowshoe frames. </string>
+
+    <string name="pg35">Western hemlock (Tsuga heterophylla)</string>
+    <string name ="pg35D">Western Hemlock grow along both he west and west wides of the Coast Ranges, from sea level to mid-elevations, as well as the Interior wet belt west of the Rocky Mountains. Western hemlock have shallow rooting systems and make it susceptible to wind throw as well as fire damage. It can grow in shaded regions underneath mature trees, where it provides an important food source for deer and elk. Hemlock wood, which is fairly easily worked, was used by Coastal First Nations to carve spoons, combs, roasting spits, and other impairments. The Haida people cared wood into giant feast dishes. The Nisga\'a and Gitksan peoples scraped off the inner bark in spring and baked it into cakes. A favorite way to prepare the dried cambium in winter was to whip it with snow and eulachon grease.</string>
+
+    <string name="pg36">Mountain hemlock (Tsuga mertensiana)</string>
+    <string name ="pg36D">Mountain hemlock grows at mid elevations to timberline in the coastal mountains and at low elevations further north. In the Interior, it grows in the Cariboo, Selkirk and Monashee mountains. Mountain hemlock grows with amabilis fir and yellow-cedar on the coast and Engelmann spruce and subalpine fir in the Interior. It is found in areas that have a deep, insulating snowpack that accumulates early in the fall; it probably cannot grow where the soil freezes. It also grows in bogs along the mid to north coast. Commercial uses include small dimension lumber and pulp.</string>
+
+    <string name="pg37">Arbutus (Arbutus unedo)</string>
+    <string name ="pg37D">Arbutus is restricted to a narrow band along the south coast and generally occurs within 8 kilometres of the ocean. It is often found on exposed rocky bluffs overlooking the ocean. Arbutus is found on sites that lack moisture, such as those with rocky or rapidly drained soils. Because it does not like shade, it generally occurs in clearings or on open rocky bluffs with other species such as Garry oak or Douglas-fir, oceanspray, Oregon-grape, baldhip rose, and several herbs and grasses. The flowers have a strong honey smell and are very attractive to bees. Fruit-eating birds such as waxwings and robins frequently eat the berries. Arbutus bark is very rich in a substance used for tanning hides. The wood is heavy and hard, tends to be brittle, and cracks when drying. It is used only for woodworking in British Columbia.</string>
+
+    <string name="pg38">Paper birch (Betula papyrifera)</string>
+    <string name ="pg38D">Paper birch is found throughout British Columbia but only in a few scattered places on the outer coast. Paper birch grows on a variety of soils, and is abundant on rolling upland terrain and floodplain sites, but it also grows on open slopes, avalanche tracks, swamp margins and in bogs. It doesn\'t grow well in shade, and consequently it often occurs in younger forests following a disturbance. Paper birch can be an important winter food for many forest animals including deer and moose. It is also a favourite food of snowshoe hare, porcupine, and beaver. Many birds will nest in paper birch, including woodpeckers, sapsuckers, and vireos. Many First Nations people in British Columbia used birch bark as material for baskets, cradles, and canoes. They also used it for wrapping and storing food and for roofing pit houses. They used the wood for many small items, including bows and spoons. 
+</string>
+
+    <string name="pg39">Hawthorn (Crataegus spp.)</string>
+    <string name ="pg39D">Hawthorn is a large genus of shrubs and trees native to temperate regions of the Northern Hemisphere in Europe, Asia, and North America. Hawthorns provide food and shelter for many species of birds and mammals, and the flowers are important for many nectar-feeding insects. The "haws" or fruits of the common hawthorn, C. monogyna, are edible, but the flavour has been compared to over-ripe apples. The dried fruits of Crataegus pinnatifida (called shān zhā in Chinese) are used in traditional Chinese medicine, primarily as a digestive aid.
+</string>
+
+    <string name="pg40">Pacific crab apple (Malus fusca)</string>
+    <string name ="pg40D">The Pacific crabapple is found on lakesides and streambanks along the coast, from sea level to mid elevations. It is the only native apple tree that grows in British Columbia. Pacific crab apple grows on Vancouver Island but not on the Queen Charlotte Islands. Pacific crab apple grows in moist, open woodlands. It presents a delightful spring sight when in bloom along the edges of river mouths and streambanks. The apples were an important fruit for all coastal people, who harvested them in the late summer and early fall and either ate them fresh or stored them under water. Because of their acidity, the apples did not require further preservation. The deeply coloured wood is hard and somewhat flexible. Coastal people used it to make tool handles, bows, wedges, and digging sticks.</string>
+
+    <string name="pg41">Oregon ash (Fraxinus latifolia)</string>
+    <string name ="pg41D">The Oregon ash is found along the Pacific coast from California to Vancouver Island, British Columbia. It grows in poorly drained, humus rich soil in swamps, estuaries and seasonally flooded habitats at elevations lower than 900m. It produces small yellow-green flowers in April to May and fruits in August to September. There has been some debate about its origin (native or introduced), but its presence in the fossil record indicate that it has been in British Columbia for over 9000 years. It may or may not have been found historically in the Fraser Valley.</string>
+
+    <string name="pg42">Bigleaf maple (Acer macrophyllum)</string>
+    <string name ="pg42D">The big leaf maple is restricted to the southwest corner of British Columbia at low to mid elevations. Bigleaf maple generally grows on coarse, gravelly, moist soils, such as those found near river, lake, or stream edges, but it can occur on other moist soils such as seepage areas. It commonly occurs in mixed groups of trees with red alder, black cottonwood, Douglas-fir, western redcedar, and western hemlock. Squirrels, grosbeaks, and mice eat the seeds of bigleaf maples, and deer and elk eat the twigs. Coastal peoples used bigleaf maple wood to make dishes, pipes and hooks for clothing. Many groups who made paddles out of the wood called it the paddle tree. They used the inner bark to make baskets, rope and whisks for whipping soopolalie berries.
+In the Interior, aboriginal people ate the young shoots raw in the spring. They also made a type of maple syrup, but because the sap has a low sugar content, it takes a large quantity of sap to make a small amount of syrup. Maple flowers are quite sweet and edible and can be used in salads.</string>
+
+    <string name="pg43">Garry oak (Quercus garryana)</string>
+    <string name ="pg43D">The Garry oak grows in southeastern Vancouver Island and the Gulf Islands, with some isolated groups of trees in the lower Fraser Valley. Garry oak forms open parkland and meadows that are scattered with Douglas-fir and a lush spring display of herbs - camas, Easter lilies, western buttercups, and shootingstars. These meadows are threatened by urban development. A diverse bird community makes its home in Garry oak meadows, as well as numerous mammals and insects. Garter snakes and alligator lizards can be seen basking on sun-warmed rocks. Garry oak wood was used by coastal peoples for combs and digging sticks as well as for fuel. They also ate the acorns either roasted or steamed. They managed the Garry oak ecosystem by underburning in order to cultivate a supply of camas bulbs. Camas was an important food source for many Coastal groups.</string>
+
+    <string name="pg44">Pacific dogwood (Cornus nuttallii)</string>
+    <string name ="pg44D">Pacific dogwood grows on the southern coast and on Vancouver Island south of Port Hardy. Pacific dogwood grows best on deep, coarse, well-drained soils, often underneath Douglas-fir, grand fir, and western hemlock. The fruit is part of the diet of pigeons, quail, grosbeaks, hermit thrushes, and waxwings. Bears and beavers enjoy the fruit and foliage, and deer eat the twigs. Some aboriginal people used the wood, which is fine-grained, hard and heavy, for bows and arrows. More recently, the Cowichan people on Vancouver Island made knitting needles from it. The wood has been used for piano keys. Pacific dogwood varieties are attractive ornamentals in coastal gardens.
+</string>
+
+    <string name="pg45">Red alder (Alnus rubra)</string>
+    <string name ="pg45D">The Red alder occurs along the entire coast of British Columbia. Red alder does not tolerate shade and occupies a site quickly after disturbance. It grows rapidly, often shading out conifers such as Douglas-fir. It tends to occur on sites rich in nutrients, including floodplains and streambanks. Red alder occurs with all of the low elevation coastal tree species, including black cottonwood, grand fir, Douglas-fir, and the cedars. It tends to be associated with a dense layer of shrubs and herbs, including salmonberry, red elderberry, and several ferns. Aboriginal people used the bark for dyeing basket material, wood, wool, feathers, human hair, and skin. Depending on the technique used, the colours ranged from black to brown to orangey-red. Some coastal groups used the tree\'s inner cambium layer for food. The wood is low in pitch, which makes it a good wood for smoking meat. The wood was also used for carving items such as bowls.</string>
+
+    <string name="pg46">Black cottonwood (Populus trichocarpa)</string>
+    <string name ="pg46D">Black cottonwood grows west of the Rocky Mountains. Black cottonwood require ample moisture and plenty of nutrients to grow well. They favour floodplains and moist upland sites with lots of light. They do not grow well in the shade of other species. First Nations people on the coast and, more commonly, in the Interior made dugout canoes from black cottonwood. Also, the Okanagan people made cottonwood into sideboards for riding and cradles to flatten their children\'s heads. Cottonwood burns well and was used to make friction fire sets. Ashes were used to make a cleanser for hair and buckskin clothing. The Thompson people produced soap from the inner bark. The Hudson's Bay Company reportedly continued using their method, combining the inner bark with tallow.
+</string>
+
+    <string name="pg47">Bitter cherry (Prunus emarginata)</string>
+    <string name ="pg47D">Bitter cherry occurs throughout southern British Columbia, except for the dry Interior portions. Bitter cherry is common in moist deciduous forests and open woods, along streams and on recently disturbed areas. It prefers moist, nutrient-rich sites. Aboriginal people ate the fruit of the bitter cherry only occasionally because of its unpleasant taste. Because the bark is tough and waterproof, they peeled it off in long horizontal or spiral strips and used it for basket-making. They also softened it by pounding to make twine for baskets and mats and for tying together joints in house-building.</string>
+
+
+
+</resources>
